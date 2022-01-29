@@ -4,10 +4,10 @@ title: Nav2中文网
 heroImage: /images/nav2_logo_m.png
 actions:
   - text: Nav2文档(稳定版)
-    link: http://nav2.fishros.com/
+    link: http://nav2.fishros.com/doc/
     type: primary
   - text: Nav2文档(实时版)
-    link: http://dev.nav2.fishros.com/
+    link: http://dev.nav2.fishros.com/doc/
     type: secondary
 features:
   - title: 资源文章    
