@@ -29,11 +29,11 @@ Nav2继承于ROS导航栈。Nav2旨在找到一种让机器人从A点安全的�
 我们鼓励您提供任何形式的贡献来帮助我们改进。包括[翻译校准](https://fishros.com)、[贡献文章](https://fishros.com)、[服务器费用支持](https://fishros.com)等。
 
 ### 小组核心成员
-- [小鱼-Nav2中文站发起者](https://fishros.com)
+- [小鱼-Nav2中文站发起者](https://github.com/fishros)
 
 
 ### 特别感谢
-- [zebra-网站建设维护](https://mzebra.com)
+- [zebra-网站建设维护](https://github.com/mzebra)
 
 ### 维护费用支持
 

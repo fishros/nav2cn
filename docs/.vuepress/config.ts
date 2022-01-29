@@ -20,8 +20,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     sidebarDepth: 3
     
   },
-  extendsMarkdown: md =>{
-    md.use(require("markdown-it-disable-url-encode"));
-  }
+  // extendsMarkdown: md =>{
+  //   md.use(require("markdown-it-disable-url-encode"));
+  // }
 
 })
