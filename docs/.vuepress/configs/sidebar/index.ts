@@ -29,5 +29,12 @@ export const sidebarConfig: SidebarConfig = {
         '/pages/contribution/contribution_articles.md',
       ],
     },
+    {
+      text: '工作计划',
+      children: [
+        '/pages/contribution/work/planing/README.md',
+        '/pages/contribution/work/logs/README.md',
+      ],
+    },
   ],
 }

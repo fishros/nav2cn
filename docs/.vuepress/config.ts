@@ -18,7 +18,6 @@ export default defineUserConfig<DefaultThemeOptions>({
     navbar: navbarConfig,
     sidebar: sidebarConfig,
     sidebarDepth: 3
-    
   },
   // extendsMarkdown: md =>{
   //   md.use(require("markdown-it-disable-url-encode"));

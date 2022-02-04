@@ -11,7 +11,16 @@ export const navbarConfig: NavbarConfig = [
   },
   {
     text: '参与贡献',
-    link: '/pages/contribution/',
+    children: [
+      {
+        text: '贡献指南',
+        link: '/pages/contribution/',
+      },
+      {
+        text: '开源工作',
+        link: '/pages/contribution/work/planing',
+      }
+    ]
   },
   {
     text: '相关链接',
@@ -19,12 +28,10 @@ export const navbarConfig: NavbarConfig = [
       {
         text: '鱼香ROS',
         link: 'https://fishros.com',
-        activeMatch: '/foo'
       },
       {
         text: '动手学ROS2',
         link: 'https://fishros.com/d2lros2foxy',
-        activeMatch: '/foo'
       }
     ]
   },
