@@ -17,6 +17,8 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     navbar: navbarConfig,
     sidebar: sidebarConfig,
+    contributorsText: '贡献者' ,
+    lastUpdatedText: '上次更新时间',
     sidebarDepth: 3
   },
   // extendsMarkdown: md =>{
