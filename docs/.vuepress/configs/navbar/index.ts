@@ -37,6 +37,6 @@ export const navbarConfig: NavbarConfig = [
   },
   {
     text: 'Github',
-    link: 'https://github.com/fishros',
+    link: 'https://github.com/fishros/nav2cn',
   },
 ]
