@@ -8,7 +8,12 @@
 2. 进入项目根目录，执行 `npm run install-dep` 命令安装依赖包
 3. 执行 `npm run dev` 命令启动项目
 
+## 已知bug
+
+1. 图片定位问题不加`./`编译报错
+
 ## 贡献
 
 前后端：
 - [mzebra](https://github.com/mzebra)
+
