@@ -6,7 +6,7 @@ export const sidebarConfig: SidebarConfig = {
       text: '学习资源',
       children: [
         '/pages/sources/README.md',
-        '/pages/sources/open_source.md',
+        '/pages/sources/fishbot/README.md',        
       ],
     },
   ],
