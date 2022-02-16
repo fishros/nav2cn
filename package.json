@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "vue-baidu-analytics": "^2.2.0",
     "vuepress": "^2.0.0-beta.32"
   },
   "scripts": {
@@ -13,8 +12,8 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "markdown-it-disable-url-encode": "^1.0.1",
     "mdurl": "^1.0.1",
+    "vue-baidu-analytics": "^2.2.0",
     "yarn": "^1.22.17"
   }
 }
