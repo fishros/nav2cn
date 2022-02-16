@@ -2,6 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import type { DefaultThemeOptions } from 'vuepress'
 import {navbarConfig} from './configs/navbar'
 import {sidebarConfig} from './configs/sidebar'
+import baiduAnalytics from 'vue-baidu-analytics'
 
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
