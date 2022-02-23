@@ -12,8 +12,6 @@ export default ({ router }) => {
         console.log("上报百度统计", to.fullPath);
       }
     }
-
-    // continue
     next();
   });
 };
