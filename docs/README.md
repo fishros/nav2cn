@@ -3,10 +3,10 @@ home: true
 title: Nav2中文网
 heroImage: /images/nav2_logo_m.png
 actions:
-  - text: Nav2文档(稳定版)
-    link: http://nav2.fishros.com/doc/
+  - text: Nav2社区
+    link: https://fishros.org.cn/forum/
     type: primary
-  - text: Nav2文档(实时版)
+  - text: Nav2文档
     link: http://dev.nav2.fishros.com/doc/
     type: secondary
 features:
@@ -24,7 +24,11 @@ footer: 署名-非商业性使用-相同方式共享 3.0 中国大陆 (CC BY-NC-
 Nav2继承于ROS导航栈。Nav2旨在找到一种让机器人从A点安全的移动到B点的方法。它也可以应用于涉及机器人导航的其他应用，例如跟路点跟踪。这将完成动态路径规划、计算电机速度、动态避障和恢复行为
 
 ### 开源硬件平台fishbot
+
+
 由小鱼完成初步设计，fishbot开源小组完善的开源机器人平台，包括仿真和实体机器人。[项目详情](pages/sources/fishbot/README.md)
+
+目前所有工作已经迁移至[鱼香社区-Fishbot专区](https://fishros.org.cn/forum/category/16/fishbot%E6%9C%BA%E5%99%A8%E4%BA%BA)
 
 
 ## 贡献

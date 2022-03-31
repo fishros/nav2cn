@@ -1,12 +1,12 @@
 # FishBot开源路线图
 
 ## 2022-03
-细分工作任务，完善各部分设计。
-
+目前所有工作已经迁移至[鱼香社区-Fishbot专区](https://fishros.org.cn/forum/category/16/fishbot%E6%9C%BA%E5%99%A8%E4%BA%BA)
 
 
 ## 2022-02
 第一批小伙伴加入到fishbot开源中来，开始一起推进fishbot相关工作。
+小伙伴名单：[FishBot开源小组](https://fishros.org.cn/forum/groups/fishbot%E5%BC%80%E6%BA%90%E5%B0%8F%E7%BB%84)
 
 ### 当月工作
 

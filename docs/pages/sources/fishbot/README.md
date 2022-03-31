@@ -17,6 +17,8 @@ FishBot有什么：
 
 ## 开发计划
 
+目前所有工作已经迁移至[鱼香社区-Fishbot专区](https://fishros.org.cn/forum/category/16/fishbot%E6%9C%BA%E5%99%A8%E4%BA%BA)
+
 详细的开发工作计划可以查看：[fishbot开发计划](roadmap.md)
 
 ### 目前计划
