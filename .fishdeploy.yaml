@@ -5,7 +5,7 @@ mode: os
 env: nodejs
 name: nav2cn
 tag: main
-parallel: false
+parallel: true
 stage:
   prepare:
     - npm run install-dep
