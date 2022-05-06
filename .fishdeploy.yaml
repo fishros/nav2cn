@@ -1,0 +1,18 @@
+# fishros deploy tool 
+# 所有的操作都在工程目录进行
+# os / docker 
+mode: os
+env: nodejs
+name: nav2cn
+stage:
+  prepare:
+    - npm run install-dep
+  start:
+    - npm run build
+  end:
+    - rm -rf /root/nav2/dev/nav2cn/*
+    - cp -r docs/.vuepress/dist/* /root/nav2/dev/nav2cn/
+    - rm -rf /root/nav2/master/nav2cn/*
+    - cp -r docs/.vuepress/dist/* /root/nav2/master/nav2cn/
+# 超时
+timeout: 200
